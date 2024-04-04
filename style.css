@@ -1,0 +1,43 @@
+/* * {
+    margin: 0;
+    padding: 0;
+}
+
+.button {
+    font-size: 15px;
+    padding: 20px 30px;
+    border: 5px solid #050505;
+    border-radius: 50px;
+    text-align: center;
+}
+ */
+
+/* #main_color {
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+    border: 1px solid black;
+    text-align: center;
+    justify-content: center;
+    line-height: 50px;
+    font-weight: bold;
+} */
+
+
+/*--------------VAZIFA---------------- */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+  
+.button {
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
